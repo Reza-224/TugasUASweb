@@ -1,0 +1,82 @@
+.navbar{
+    background-color: transparent;
+}
+
+.container a{
+    color: black;
+}
+li a{
+    color: black;
+}
+
+.jumbotron{
+    background-image: url(jumbotron3.jpg);
+    background-size: cover;
+    height: 778px;
+    text-align: center;
+    margin-top: -120px;
+}
+
+.jumbotron .display-4{
+    color: white;
+    margin-top: 120px;
+
+}
+.jumbotron .container{
+    margin-top: 190px;
+    
+}
+.jumbotron p{
+    color: white;
+}
+
+.jumbotron .lead{
+    columns: white;
+}
+
+.jumbotron hr{
+    border-color: #f05f40;
+    width: 75px;
+    border-width: 3px;
+}
+
+.jumbotron .btn{
+    border : none;
+    background-color: #f05f40;
+    border-radius: 25px;
+}
+
+.carousel-item{
+    height: 670px;
+}
+
+.carousel-item hr{
+    border-color: #f05f40;
+    width: 75px;
+    border-width: 3px;
+}
+
+.carousel-item .btn{
+    border : none;
+    background-color: #f05f40;
+    border-radius: 25px;
+    transition: all 0.4s ease;
+}
+
+.carousel-item .display-4{
+    margin-top: -440px;
+}
+
+.card img{
+    height: 250px;
+}
+
+.card-body1{
+    background-color: azure;
+    padding-left: 20px;
+}
+
+.card-body2{
+    background-color: lemonchiffon;
+}
+
